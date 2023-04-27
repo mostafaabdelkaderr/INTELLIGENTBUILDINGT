@@ -1,0 +1,33 @@
+
+
+.bg-white{
+  backround-color:white
+}
+.bg-red{
+    background-color: red;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.button{
+    border-style: solid;
+    border-color: black;
+      background-color: white;
+}
+
+.new-account{
+        background-color: #FCF8E3;
+}
+
+.detailes{
+          background-color: #EEEEEE;
+}
+
+.padding-top{
+padding-top:1em;
+}
+.col-xs-12 {
+  background-color: 
+}
